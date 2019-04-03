@@ -22,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: aartirajput1/Jekyllrepo
   instagram:
   linkedin:
   pinterest:
@@ -84,3 +84,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - CNAME
