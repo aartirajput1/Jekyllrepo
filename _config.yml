@@ -11,9 +11,11 @@
 title: QuickStart Guide for OwnCloud Server
 email: gk7700@gmail.com
 description: OWncloud Server Installation Guide and connecting to it as a client.
-baseurl: "Jekyllrepo" 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/aartirajput1/Jekyllrepo/master/images/logo.png
+
+baseurl: "Jekyllrepo" 
+
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Set default.html as default layout for everything
