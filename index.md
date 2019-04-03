@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
+avatar: https://raw.githubusercontent.com/aartirajput1/Jekyllrepo/master/images/logo.png
 
 # Hello World
 
