@@ -6,7 +6,7 @@ layout: default
 ---
 avatar: https://raw.githubusercontent.com/aartirajput1/Jekyllrepo/master/images/logo.png
 
-# Hello World
+# Hello World and aartigautam
 
 ## This is my Jekyll site
 
