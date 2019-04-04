@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!gautam"
 date:   2019-04-02 16:30:03 +0530
 categories: jekyll update
