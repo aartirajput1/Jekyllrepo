@@ -15,13 +15,14 @@ avatar: https://raw.githubusercontent.com/aartirajput1/Jekyllrepo/master/images/
 #avatar: /../master/images/logo.png
 
 baseurl: "Jekyllrepo" 
-
+sass:
+  style: compressed
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
       
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
@@ -37,4 +38,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-cayman
